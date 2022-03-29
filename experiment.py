@@ -12,4 +12,5 @@ with out hesitation
 wait with patience
 resolve and fix the issues
 as soon as possible
+gotrough the whole process
 
