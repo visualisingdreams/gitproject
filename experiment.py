@@ -9,8 +9,13 @@ now u can
 deploy it
 with out hesitation
  7accc46de2c3b3b834284709a6d52ce52e99ddf2
+ HEAD
 wait with patience
 resolve and fix the issues
 as soon as possible
 gotrough the whole process
+
+keep on practice the stuff
+untill u succeed
+ gitenvironment
 
